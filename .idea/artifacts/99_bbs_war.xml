@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="99_bbs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="seven_color_99bbs.war">
+      <element id="artifact" artifact-name="99_bbs:war exploded" />
+    </root>
+  </artifact>
+</component>
